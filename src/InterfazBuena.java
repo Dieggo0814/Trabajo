@@ -53,6 +53,6 @@ public class InterfazBuena extends JFrame{
     }
 
     public static void main(String[] args) {
-        new Interfaz();
+        new InterfazBuena();
     }
 }
